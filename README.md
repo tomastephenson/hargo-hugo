@@ -73,7 +73,7 @@ Or Check out [Full Documentation](https://docs.gethugothemes.com/hargo/?ref=gith
 ## ⚙️Deployment and hosting
 
 [![Deploy to
-Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/themefisher/hargo-hugo)
+Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tomastephenson/hargo-hugo)
 
 Follow the steps.
 
